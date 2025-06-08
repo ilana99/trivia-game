@@ -5,12 +5,12 @@
 - Authentication (login, jwt, jwt cookie)
 
 
-## Endpoints ("/trivia)
+## Endpoints 
 #### Get game's questions and answers
-GET "/start"
+GET "/trivia/start"
 
 #### Check user's answer
-GET "/validate"
+GET "/trivia/validate"
 
 #### Post user's score
-POST "/score"
+POST "/trivia/score"
