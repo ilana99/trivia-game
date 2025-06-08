@@ -16,13 +16,11 @@ import com.fsp.trivia.answers.Answer;
 import com.fsp.trivia.answers.AnswerDTO;
 import com.fsp.trivia.errors.GeneralException;
 import com.fsp.trivia.errors.ResourceNotFound;
-import com.fsp.trivia.questions.ApiResponseDTO;
+import com.fsp.trivia.games.Games;
+import com.fsp.trivia.games.GamesRepository;
 import com.fsp.trivia.questions.Question;
 import com.fsp.trivia.questions.QuestionDTO;
 import com.fsp.trivia.questions.QuestionRepository;
-import com.fsp.trivia.questions.ValidationDTO;
-import com.fsp.trivia.user.Games;
-import com.fsp.trivia.user.GamesRepository;
 import com.fsp.trivia.user.UserRepository;
 import com.fsp.trivia.user.Users;
 

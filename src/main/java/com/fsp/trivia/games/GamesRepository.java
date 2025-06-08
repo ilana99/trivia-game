@@ -1,4 +1,4 @@
-package com.fsp.trivia.user;
+package com.fsp.trivia.games;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

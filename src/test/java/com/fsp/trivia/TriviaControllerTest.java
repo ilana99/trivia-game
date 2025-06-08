@@ -30,17 +30,17 @@ import org.springframework.web.bind.MethodArgumentNotValidException;
 
 import com.fsp.trivia.answers.Answer;
 import com.fsp.trivia.errors.ResourceNotFound;
-import com.fsp.trivia.questions.ApiResponseDTO;
+import com.fsp.trivia.games.Games;
+import com.fsp.trivia.games.GamesRepository;
 import com.fsp.trivia.questions.Question;
 import com.fsp.trivia.questions.QuestionDTO;
 import com.fsp.trivia.questions.QuestionRepository;
-import com.fsp.trivia.questions.ValidationDTO;
+import com.fsp.trivia.trivia.ApiResponseDTO;
 import com.fsp.trivia.trivia.SetScoreDTO;
 import com.fsp.trivia.trivia.ValidateAnswerDTO;
+import com.fsp.trivia.trivia.ValidationDTO;
 import com.fsp.trivia.trivia.TriviaController;
 import com.fsp.trivia.trivia.TriviaService;
-import com.fsp.trivia.user.Games;
-import com.fsp.trivia.user.GamesRepository;
 import com.fsp.trivia.user.UserRepository;
 import com.fsp.trivia.user.Users;
 

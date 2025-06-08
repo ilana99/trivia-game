@@ -1,6 +1,9 @@
-package com.fsp.trivia.user;
+package com.fsp.trivia.games;
 
 import java.sql.Date;
+
+import com.fsp.trivia.user.Users;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;

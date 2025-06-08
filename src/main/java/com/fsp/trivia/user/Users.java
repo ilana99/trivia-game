@@ -2,6 +2,8 @@ package com.fsp.trivia.user;
 
 import java.util.List;
 
+import com.fsp.trivia.games.Games;
+
 import jakarta.annotation.Nonnull;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

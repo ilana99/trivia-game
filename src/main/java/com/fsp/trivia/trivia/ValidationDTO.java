@@ -1,4 +1,4 @@
-package com.fsp.trivia.questions;
+package com.fsp.trivia.trivia;
 
 public class ValidationDTO {
 	

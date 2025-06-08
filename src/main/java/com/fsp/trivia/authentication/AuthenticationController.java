@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.fsp.trivia.errors.ResourceNotFound;
-import com.fsp.trivia.questions.ApiResponseDTO;
+import com.fsp.trivia.trivia.ApiResponseDTO;
 import com.fsp.trivia.user.UserRepository;
 import com.fsp.trivia.user.Users;
 

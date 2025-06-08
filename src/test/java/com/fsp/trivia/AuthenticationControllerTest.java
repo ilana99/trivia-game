@@ -33,7 +33,7 @@ import com.fsp.trivia.authentication.JWTService;
 import com.fsp.trivia.authentication.LoginDTO;
 import com.fsp.trivia.authentication.RegisterDTO;
 import com.fsp.trivia.errors.ResourceNotFound;
-import com.fsp.trivia.questions.ApiResponseDTO;
+import com.fsp.trivia.trivia.ApiResponseDTO;
 import com.fsp.trivia.user.UserRepository;
 import com.fsp.trivia.user.Users;
 
